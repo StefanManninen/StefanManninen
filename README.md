@@ -25,15 +25,16 @@ Whatever solves the problem.
 
 ### 📦 Projects
 
-**Daily Tools**  
-Modular system where features plug into a shared core.  
-Built to stay maintainable over time — not just to work today.
+**🧩 Daily Tools**  
+Modular app architecture with a shared core and independent features.  
+Closed source by design — focused on privacy, control and preventing insecure forks.  
 
-**Mail Infrastructure**  
+
+**📧 Mail Infrastructure**  
 Self-hosted mail system that runs without constant intervention.  
 No external dependencies beyond what’s necessary.
 
-**Skolgranskaren**  
+**🏫 Skolgranskaren**  
 Built from a real case.  
 Focus on structure, documentation and accountability.
 
