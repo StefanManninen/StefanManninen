@@ -26,9 +26,8 @@ Whatever solves the problem.
 ### 📦 Projects
 
 **🧩 Daily Tools**  
-Modular app architecture with a shared core and independent features.  
-Closed source by design — focused on privacy, control and preventing insecure forks.  
-
+Modular system with a shared core.  
+Closed source — security and control take priority over openness.  
 
 **📧 Mail Infrastructure**  
 Self-hosted mail system that runs without constant intervention.  
