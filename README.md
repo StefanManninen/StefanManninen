@@ -13,7 +13,8 @@ Analytical builder focused on systems, structure and real-world problems.
 - Avoid unnecessary dependencies and hidden complexity
 
 ### 🤖 AI usage
-- Used as a tool for analysis, validation and acceleration
+- Used for analysis, validation and acceleration
+- Not to blindly generate code  
 - Never replaces understanding or control
 - No autonomous agents inside systems — logic should be explicit and traceable
 
@@ -21,6 +22,20 @@ Analytical builder focused on systems, structure and real-world problems.
 Languages and frameworks vary depending on the problem  
 (JavaScript, Dart, Python, C/C++, etc.)  
 Whatever solves the problem.
+
+### 📦 Projects
+
+**Daily Tools**  
+Modular system where features plug into a shared core.  
+Built to stay maintainable over time — not just to work today.
+
+**Mail Infrastructure**  
+Self-hosted mail system that runs without constant intervention.  
+No external dependencies beyond what’s necessary.
+
+**Skolgranskaren**  
+Built from a real case.  
+Focus on structure, documentation and accountability.
 
 ### 💭 Mindset
 > If a system is fragile, it’s poorly designed.  
