@@ -1,6 +1,30 @@
-- 👋 Hi, I’m Stefan Manninen
-- 👀 I’m interested in creating and analyze stuff.
-- 🌱 I’m currently learning everything.
+## 👋 Stefan Manninen
+
+Analytical builder focused on systems, structure and real-world problems.
+
+### 🧠 What I do
+- Break down complex systems and find what’s actually wrong
+- Build stable solutions that don’t need constant maintenance
+- Work across backend, infrastructure and apps
+
+### ⚙️ Approach
+- Choose the right tool for the problem — not the other way around
+- Keep systems simple, predictable and observable
+- Avoid unnecessary dependencies and hidden complexity
+
+### 🤖 AI usage
+- Used as a tool for analysis, validation and acceleration
+- Never replaces understanding or control
+- No autonomous agents inside systems — logic should be explicit and traceable
+
+### 🛠️ Tools
+Languages and frameworks vary depending on the problem  
+(JavaScript, Dart, Python, C/C++, etc.)  
+Whatever solves the problem.
+
+### 💭 Mindset
+> If a system is fragile, it’s poorly designed.  
+> If it’s complex, it’s probably overengineered.
 
 
 <!---
