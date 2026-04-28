@@ -25,7 +25,6 @@ I focus on understanding why.
 ### 🛠️ Tools
 Languages and frameworks vary depending on the problem  
 (JavaScript, Dart, Python, C/C++, etc.)  
-Whatever solves the problem.
 
 ### 📦 Projects
 
@@ -34,10 +33,11 @@ Modular system with a shared core.
 Closed source — security and control take priority over openness.  
 
 **📧 Mail Infrastructure**  
-Self-hosted mail system designed to run without constant intervention.  
+Self-hosted mail system built for reliability and minimal intervention.  
 
 **🏫 Skolgranskaren**  
-Focused on structure, traceability and accountability in real-world processes.  
+Built from real cases.  
+Focused on structure, traceability and accountability.  
 
 ### 💭 Mindset
 > The world is full of hidden bugs —  
