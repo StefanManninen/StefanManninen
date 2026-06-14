@@ -43,7 +43,18 @@ Focused on structure, traceability and accountability.
 > The world is full of hidden bugs —  
 > in systems, in processes, and in assumptions.
 
+## Philosophy
 
+This project follows a simple principle:
+
+> AI should assist understanding, not replace it.
+
+The assistant is intentionally transparent and traceable.  
+Every learned shortcut is stored locally, weighted explicitly, and can be inspected or cleaned.
+
+No hidden autonomous behavior.  
+No black-box agent swarm.  
+No unnecessary cloud dependency.
 
 <!---
 StefanManninen/StefanManninen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
